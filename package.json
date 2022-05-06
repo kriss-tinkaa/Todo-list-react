@@ -2,7 +2,7 @@
   "name": "todo-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kriss-tinkaa.github.io/Todo-list-react",
+  "homepage": "https://kriss-tinkaa.github.io/todo-list-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
