@@ -1,0 +1,19 @@
+.todo-app{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.d-flex{
+    display: flex;
+}
+.main{
+    max-width: 900px;
+    width: 100%;
+    margin: 40px auto 0;
+}
+
+.btn{
+    margin-left: 16px;
+    min-width: 40px;
+}

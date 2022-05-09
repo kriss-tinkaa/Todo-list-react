@@ -1,8 +1,15 @@
 import React from 'react'
+import { Col, Row } from 'react-bootstrap'
+import s from './Header.module.css'
 
 function Header() {
   return (
-    <div>Header</div>
+    <Row>
+      <Col>
+        <div className={s.root}>Todo List</div>
+      </Col>
+    </Row>
+    
   )
 }
 
